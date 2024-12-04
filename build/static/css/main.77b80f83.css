@@ -1,0 +1,2 @@
+header{background-color:#000;color:#fff;padding:10px}header nav{align-items:center;display:flex;justify-content:space-between}header .social-links,header ul{display:flex;gap:20px}header ul{list-style:none}section{padding:50px}.landing{text-align:center}.project-grid{grid-gap:20px;display:grid;gap:20px;grid-template-columns:repeat(2,1fr)}.project-card{border:1px solid #ddd;padding:10px}
+/*# sourceMappingURL=main.77b80f83.css.map*/
