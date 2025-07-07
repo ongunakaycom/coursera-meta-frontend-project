@@ -141,5 +141,3 @@ Ongun Akay, a Senior Full-Stack Developer with expertise across various technolo
 ---
 
 ⭐ If you like this project, give it a star on GitHub to support open source!
-
-```
