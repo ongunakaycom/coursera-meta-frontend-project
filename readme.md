@@ -137,7 +137,3 @@ Ongun Akay, a Senior Full-Stack Developer with expertise across various technolo
 * 💼 LinkedIn: [linkedin.com/in/ongunakay](https://linkedin.com/in/ongunakay)
 * 🧑‍💻 GitHub: [github.com/ongunakaycom](https://github.com/ongunakaycom)
 * 📬 Email: [info@ongunakay.com](mailto:info@ongunakay.com)
-
----
-
-⭐ If you like this project, give it a star on GitHub to support open source!
