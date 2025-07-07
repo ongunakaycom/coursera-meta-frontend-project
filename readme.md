@@ -1,6 +1,7 @@
 # 🛠️ React Portfolio - Fullstack Developer Showcase
 
 A professional portfolio built with React, showcasing frontend development projects, contact information, and responsive UI. This project emphasizes modern DevOps practices, CI/CD pipeline integration, and is open-source friendly for community collaboration.
+Created by Ongun Akay during the Meta Front-End Developer Specialization.
 
 ---
 
