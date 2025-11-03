@@ -118,12 +118,6 @@ PRs and feedback are welcome! This project was part of a learning journey — fe
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See LICENSE for details.
-
----
-
 ## About Me
 
 I'm Ongun Akay, a Senior Full-Stack Developer with expertise across various technologies.
